@@ -1,4 +1,4 @@
-![Visit My Portfolio](https://scontent.fszb2-1.fna.fbcdn.net/v/t1.6435-9/s960x960/240742894_1965769293590288_3392221546884285025_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=e3f864&_nc_ohc=Tjvv-6JUugAAX9NkDVR&_nc_ht=scontent.fszb2-1.fna&oh=b2a1bba8bfcec6fa5721d413eb3c3600&oe=61523BC0)
+
 ### Hi there 👋, I'm Mazharul Islam
 #### Software Engineer (SWE)
 
@@ -6,7 +6,7 @@
 Hello there, This is Mazharul Islam. I'm a Software Engineer. Currently I'm studying at Sultan Idris Education University In Malaysia (UPSI). I'm Good at Web & Apps Development.
 Thank You☺ 
 
-Skills: REACT / JS / HTML / CSS/ MONGODB / BOOTSTRAP / TAIWIND / C++ / JAVA
+Skills: REACT / JS / HTML / CSS/ MONGODB / BOOTSTRAP / TAIWIND / C++ / JAVASCRIPT
 
 - 🔭 I’m currently working on Sultan Idris Education University (UPSI) 
 - 🌱 I’m currently learning JavaScript 
